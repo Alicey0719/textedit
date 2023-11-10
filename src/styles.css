@@ -1,0 +1,20 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.fullscreen-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+textarea {
+    width: 95%;
+    height: 98vh;
+    font-size: 1.5em;
+}
